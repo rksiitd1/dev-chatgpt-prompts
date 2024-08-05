@@ -10,7 +10,7 @@ The list is divided into categories: [ prompts for coders, students, marketers, 
 
 Prompts for Coders
 
-- [🚩 Tips](#-tips)
+- [ Tips](#-tips)
 - [🔗 A Multi-Prompt Approach (Prompt Chaining)](#-a-multi-prompt-approach-prompt-chaining)
   - [1. Modernize and add best practices](#1-modernize-and-add-best-practices)
   - [2. Review your code for logical errors and security concerns](#2-review-your-code-for-logical-errors-and-security-concerns)
